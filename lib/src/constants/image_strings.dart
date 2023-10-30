@@ -33,4 +33,4 @@ const String tBookmarkIcon = "assets/images/dashboard/bookmark.png";
 
 // -- profile image --
 
-const String tProfileImage = "assets/images/profile/prof1.jpeg";
+const String tProfileImage = "assets/images/profile/prof1.png";
